@@ -1,0 +1,1 @@
+Pengujian manual REST API menggunakan **Dummy JSON API** dengan memverifikasi endpoint GET, POST, PUT, dan DELETE menggunakan Postman. Fokus pada validasi status code, response body, error handling, dan kesesuaian data sesuai spesifikasi.
