@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "f459bc3a-a53e-4f0d-91da-79e47a6f48bd",
 		"name": "Dummy JSON",
-		"description": "Pengujian manual REST API menggunakan **Dummy JSON API** dengan memverifikasi endpoint GET, POST, PUT, dan DELETE menggunakan Postman. Fokus pada validasi status code, response body, error handling, dan kesesuaian data sesuai spesifikasi.",
+		"description": "",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "40105010",
 		"_collection_link": "https://digitalskola-5556.postman.co/workspace/API-Test~15e764a8-6299-485c-b220-59cfed593f9d/collection/40105010-f459bc3a-a53e-4f0d-91da-79e47a6f48bd?action=share&source=collection_link&creator=40105010"
